@@ -1,6 +1,6 @@
 # Overview
 
-As an aspiring software engineer, I am dedicated to expanding my proficiency in systems-level programming. My goal with this project was to figure out a new programming language, Rust in this case. By building this generator, I am deepening my understanding of programming in general and testing out basic Rust capabilities.
+As an aspiring software engineer, I am interested in expanding my proficiency in systems-level programming. My goal with this project was to figure out a new programming language, Rust in this case. By building this generator, I am deepening my understanding of programming in general and testing out basic Rust capabilities.
 
 The software is a Fibonacci Sequence Generator built in Rust. It captures user input from the terminal, validates that the input is a positive integer, and then generates the Fibonacci sequence up to that number. The core logic is decoupled into a specialized function that leverages mutable references to populate a dynamic data structure. To demonstrate advanced memory handling, the program also provides a "snapshot" of the data using memory slicing.
 
