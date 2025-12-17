@@ -1,4 +1,5 @@
 use std::io;
+use std::Vec;
 
 //Use of references (&mut) and mutable variables.
 fn calculate_fibonacci(sequence: &mut Vec<u64>, count: u32) {
