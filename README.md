@@ -12,11 +12,11 @@ My purpose for writing this software was to apply the core pillars of Rust: Owne
 
 # Development Environment
 
-Visual Studio Code: My primary IDE, configured with the rust-analyzer extension for real-time type checking and linting.
+* Visual Studio Code: My primary IDE, configured with the rust-analyzer extension for real-time type checking and linting.
 
-Cargo: Rust’s package manager, used for initializing the project, managing dependencies, and compiling the binary.
+* Cargo: Rust’s package manager, used for initializing the project, managing dependencies, and compiling the binary.
 
-Rustc: The Rust compiler, ensuring all ownership rules were followed before execution
+* Rustc: The Rust compiler, ensuring all ownership rules were followed before execution
 
 Languages and Libraries:
 Rust (Edition 2021): The core language used.
